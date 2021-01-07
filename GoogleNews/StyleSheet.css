@@ -1,0 +1,28 @@
+﻿#left {
+    float:left;
+    width:48%;
+}
+
+#right {
+    float:right;
+    margin-left:20px;
+    width:50%;
+}
+
+#upper {
+    height:20%
+}
+
+.linkToData {
+    margin-right:10px;
+}
+
+#linkToOrigin {
+    float:right;
+    margin-right:20px;
+}
+
+h2 {
+   background-color:#ededed;
+   border-top: solid #B0C4DE 1px;
+}
